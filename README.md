@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Laura Manuela! 👋
 
-<!--
-**lmcastanedame/lmcastanedame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I'm currently completing a **Diplôme d'ingénieur** in France, with a specialization in **Artificial Intelligence** and **Computer Vision**. My academic background has equipped me with strong technical skills in **machine learning**, **image processing**, and **large language models (LLMs)**, with a wide range of applications across various industries. I'm particularly fascinated by the applications of these technologies in **astronomy** and **astrophysics**.
 
-Here are some ideas to get you started:
+### 🎯 My Academic Focus
+- **Artificial Intelligence (AI)**: Designing intelligent systems that can learn, adapt, and make decisions.
+- **Computer Vision**: Developing algorithms for image analysis, object detection, and scene understanding.
+- **Remote Sensing**: I'm particularly interested in how satellite imagery and data can be leveraged to study and monitor environmental changes, natural disasters, and land use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I’m Looking For
+Right now, I'm looking for an **end-of-studies internship** in the fields of **remote sensing**, **AI**, **computer vision** or **natural language processing (NLP)**. I'm particularly interested in roles where I can apply my skills and continue learning about building intelligent systems that can interpret and analyze visual or textual data.
+
+### 💬 Contact Me
+Feel free to connect with me if you'd like to collaborate on AI projects, discuss cutting-edge technologies, or just explore new ideas!
+
+- 📧 Email: castaneda@telecom-paris.fr
+- 💼 LinkedIn: www.linkedin.com/in/manuela-castañeda-80734b233
+
