@@ -8,9 +8,6 @@ I'm currently completing a **Diplôme d'ingénieur** in France, with a specializ
 - **Computer Vision**: Developing algorithms for image analysis, object detection, and scene understanding.
 - **Remote Sensing**: I'm particularly interested in how satellite imagery and data can be leveraged to study and monitor environmental changes, natural disasters, and land use.
 
-### 🌟 What I’m Looking For
-Right now, I'm looking for an **end-of-studies internship** in the fields of **remote sensing**, **AI**, **computer vision** or **natural language processing (NLP)**. I'm particularly interested in roles where I can apply my skills and continue learning about building intelligent systems that can interpret and analyze visual or textual data.
-
 ### 💬 Contact Me
 Feel free to connect with me if you'd like to collaborate on AI projects, discuss cutting-edge technologies, or just explore new ideas!
 
